@@ -1,6 +1,6 @@
-# SmartWasteManager-Appendix-MichaelOnwuachi
 
-# SmartWasteManager – Project Appendix
+
+# SmartWasteManager – Project 
 
 **Student Name:** Michael Onwuachi
 **Student ID:** 10211100292 
