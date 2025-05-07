@@ -3,7 +3,6 @@
 # SmartWasteManager – Project 
 
 **Student Name:** Michael Onwuachi
-**Student ID:** 10211100292 
 **Institution:** Academic City University  
 **Course:** Final Year Project – Design and Implementation of an Automated Scheduling and Billing System for Residential Waste Collection
 
